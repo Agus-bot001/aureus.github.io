@@ -420,6 +420,9 @@ span {
     animation-delay: 12s;
 }
 
+h3 {
+    font-size: 40px;
+}
 
 #about {
     background-color: #020202;
@@ -468,13 +471,13 @@ span {
 .about-text li {
     line-height: 1.6;
     margin-bottom: 1rem;
-    color: #555;
+    color: #808080;
     text-align: center;
 }
 
 .about-text p {
     margin: 0 0 1rem 0;
-    color: #555; 
+    color: #808080; 
     line-height: 1.6;
     text-align: center; 
     font-size: 19px;
